@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(224, 85, 85);
+}
+.mainDiv {
+    background-color: blue;
+    height: 620px;
+    width: 620px;
+    margin: 0 auto;
+    color: white;
+   
+   /* visibility: hidden; */
+    
+}
+ 
+ .mainDiv > div {
+     margin: 0 auto; 
+     border-radius: 50%;
+     display: inline-block;
+    
+ }
+
+ 
+p {
+    padding: 50px;
+}
+
+.red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+   
+}
+
+.yellow {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    
+   /* display: none; */
+} 
+
+.green {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+   
+}
